@@ -1,0 +1,6 @@
+C:\Users\aa\Desktop\KamińskiAdrian302\WDTIGS\WDTIGS\bin\Debug\WDTIGS.exe.config
+C:\Users\aa\Desktop\KamińskiAdrian302\WDTIGS\WDTIGS\bin\Debug\WDTIGS.exe
+C:\Users\aa\Desktop\KamińskiAdrian302\WDTIGS\WDTIGS\bin\Debug\WDTIGS.pdb
+C:\Users\aa\Desktop\KamińskiAdrian302\WDTIGS\WDTIGS\obj\Debug\WDTIGS.exe
+C:\Users\aa\Desktop\KamińskiAdrian302\WDTIGS\WDTIGS\obj\Debug\WDTIGS.pdb
+C:\Users\aa\Desktop\KamińskiAdrian302\WDTIGS\WDTIGS\obj\Debug\WDTIGS.csprojResolveAssemblyReference.cache
